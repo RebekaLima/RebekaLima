@@ -4,13 +4,9 @@
 - 👓Cursando técnico em desenvolvimento de sistemas.
 
 <div>
-  <a href="www.linkedin.com/in/rebeka-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<div>
   <a href="https://github.com/RebekaLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebekaLima&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebekaLima&layout=compact&langs_count=16&theme=omni"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RebekaLima&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebekaLima&layout=compact&langs_count=16&theme=graywhite"/>
 </div>
     
 <div style="display: inline_block"><br>
