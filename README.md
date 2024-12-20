@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 💻 Atualmente estudando Java, Javascript, CSS e HTML.
+- 💻 Atualmente com foco em Java.
 - 👓Cursando técnico em desenvolvimento de sistemas.
 
 <div>
