@@ -1,19 +1,37 @@
-## Olá! 👋
+<h1> Hello! 👋 </h1>
+<div>
+<br/>
 
-- 💻 Atualmente com foco em Java.
-- 👓Cursando técnico em desenvolvimento de sistemas.
+I'm Rebeka, a Full-Stack Developer and a Systems Development student at ETEC, currently in my second term. Now focusing on Java and C#.
+
+</div>
 
 <div>
-  <a href="https://github.com/RebekaLima">
-  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebekaLima&layout=compact&langs_count=16&theme=graywhite"/>
+<h2> Techs and tools </h2>
+
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=java,cs,js,py,mysql,spring,dotnet&theme=light)](https://skillicons.dev)
+
 </div>
+
+<div>
+<br/>
+<h2> Statistics</h2>
+  <a href="https://github.com/RebekaLima">
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebekaLima&layout=compact&langs_count=16&theme=dark"/>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RebekaLima&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=RebekaLima&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RebekaLima&show_icons=true" />
+</picture>
 </div>
 
 ##
