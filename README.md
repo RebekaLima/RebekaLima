@@ -2,7 +2,7 @@
 <div>
 <br/>
 
-I'm Rebeka, a Full-Stack Developer and a Systems Development student at ETEC, currently in my second term. Now focusing on Java and C#.
+I'm Rebeka, a Full-Stack Developer and a Systems Development student at ETEC, currently in my second term. Now focusing on Java and Python.
 
 </div>
 
