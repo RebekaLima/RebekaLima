@@ -11,7 +11,7 @@ I'm Rebeka, a Full-Stack Developer and a Systems Development student at ETEC, cu
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,js,ts,mysql,spring,react,dotnet,bootstrap&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,mysql,spring,react,bootstrap&theme=dark)](https://skillicons.dev)
 
 </div>
 
